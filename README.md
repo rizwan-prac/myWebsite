@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Homepage</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <hr>
+
+  <p>This is a basic homepage created using HTML. You can customize it with your own content.</p>
+
+  <hr>
+
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+</body>
+</html>
+****
